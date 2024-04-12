@@ -3,3 +3,4 @@
 ##[assignment-4](https://github.com/Chethan113/AIML-4/blob/main/Ass4.ipynb)
 ##[assignmnet-2](https://github.com/Chethan113/AIML-4/blob/main/Ass2.ipynb)
 ##[assignment-7](https://github.com/Chethan113/AIML-4/blob/main/Assignment_07.ipynb)
+##[assignment-8](https://github.com/Chethan113/AIML-4/blob/main/Assignment-08.ipynb)
