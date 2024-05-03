@@ -7,5 +7,5 @@
 ##[assignment-6](https://github.com/Chethan113/AIML-4/blob/main/Assignment_06.ipynb)
 ##[assignment-7](https://github.com/Chethan113/AIML-4/blob/main/Assignment_07.ipynb)
 ##[assignment-8](https://github.com/Chethan113/AIML-4/blob/main/Assignment-08.ipynb)
-##[assignment-9](https://github.com/Chethan113/AIML-4/blob/main/assignment-9)
+##[assignment-9](https://github.com/Chethan113/AIML-4/blob/main/Assignment_9.ipynb)
 ##[assignment-10](https://github.com/Chethan113/AIML-4/blob/main/Assignment_10.ipynb)
